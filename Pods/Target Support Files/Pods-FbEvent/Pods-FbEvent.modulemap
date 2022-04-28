@@ -1,0 +1,6 @@
+framework module Pods_FbEvent {
+  umbrella header "Pods-FbEvent-umbrella.h"
+
+  export *
+  module * { export * }
+}

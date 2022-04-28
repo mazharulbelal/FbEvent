@@ -1,0 +1,6 @@
+framework module Pods_FbEvent_FbEventUITests {
+  umbrella header "Pods-FbEvent-FbEventUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
